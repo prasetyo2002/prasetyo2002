@@ -1,0 +1,45 @@
+
+position: relative;
+}
+
+body {
+	margin-bottom: 50px;
+}
+
+.jumbotron img {
+	width: 200px;
+	border: 5px solid powderblue;
+}
+
+.jumbotron{
+    padding-top: 2rem;
+    background-color: paleturquoise;
+}
+
+hr {
+	width: 150px;
+	border-top: 3px solid #fff;
+}
+
+section {
+	min-height: 50px;
+}
+
+
+footer {
+	position: absolute;
+	bottom: 50;
+	width: 100%;
+	height: 50px;
+	background-color: paleturquoise;
+	padding-top: 15px;
+}
+
+footer p {
+	color: paleturquoise;
+	font-size: 1.0em;
+}
+
+footer p i {
+	color: paleturquoise;
+}
